@@ -1,0 +1,55 @@
+{
+  "dictionary": {
+    "title": "30 слов на тему одежда",
+    "description": "Словарь по теме одежды: 10 новых слов каждые сутки",
+    "mode": "on_schedule",
+    "author": "Тест Экзамполович"
+  },
+  "batches": [
+    {
+      "delay_days": 0,
+      "words": [
+        { "spelling": "shirt", "transcription": "/ʃɜːt/", "audio": "", "ru_translation": "рубашка" },
+        { "spelling": "t-shirt", "transcription": "/ˈtiː ʃɜːt/", "audio": "", "ru_translation": "футболка" },
+        { "spelling": "jacket", "transcription": "/ˈdʒækɪt/", "audio": "", "ru_translation": "куртка" },
+        { "spelling": "coat", "transcription": "/kəʊt/", "audio": "", "ru_translation": "пальто" },
+        { "spelling": "jeans", "transcription": "/dʒiːnz/", "audio": "", "ru_translation": "джинсы" },
+        { "spelling": "trousers", "transcription": "/ˈtraʊzəz/", "audio": "", "ru_translation": "брюки" },
+        { "spelling": "skirt", "transcription": "/skɜːt/", "audio": "", "ru_translation": "юбка" },
+        { "spelling": "dress", "transcription": "/dres/", "audio": "", "ru_translation": "платье" },
+        { "spelling": "shorts", "transcription": "/ʃɔːts/", "audio": "", "ru_translation": "шорты" },
+        { "spelling": "sweater", "transcription": "/ˈswetə/", "audio": "", "ru_translation": "свитер" }
+      ]
+    },
+    {
+      "delay_days": 1,
+      "words": [
+        { "spelling": "hoodie", "transcription": "/ˈhʊdi/", "audio": "", "ru_translation": "худи" },
+        { "spelling": "blouse", "transcription": "/blaʊz/", "audio": "", "ru_translation": "блузка" },
+        { "spelling": "suit", "transcription": "/suːt/", "audio": "", "ru_translation": "костюм" },
+        { "spelling": "tie", "transcription": "/taɪ/", "audio": "", "ru_translation": "галстук" },
+        { "spelling": "belt", "transcription": "/belt/", "audio": "", "ru_translation": "ремень" },
+        { "spelling": "sock", "transcription": "/sɒk/", "audio": "", "ru_translation": "носок" },
+        { "spelling": "socks", "transcription": "/sɒks/", "audio": "", "ru_translation": "носки" },
+        { "spelling": "shoe", "transcription": "/ʃuː/", "audio": "", "ru_translation": "туфля" },
+        { "spelling": "shoes", "transcription": "/ʃuːz/", "audio": "", "ru_translation": "обувь; туфли" },
+        { "spelling": "boots", "transcription": "/buːts/", "audio": "", "ru_translation": "ботинки" }
+      ]
+    },
+    {
+      "delay_days": 2,
+      "words": [
+        { "spelling": "hat", "transcription": "/hæt/", "audio": "", "ru_translation": "шляпа" },
+        { "spelling": "cap", "transcription": "/kæp/", "audio": "", "ru_translation": "кепка" },
+        { "spelling": "gloves", "transcription": "/ɡlʌvz/", "audio": "", "ru_translation": "перчатки" },
+        { "spelling": "scarf", "transcription": "/skɑːf/", "audio": "", "ru_translation": "шарф" },
+        { "spelling": "pocket", "transcription": "/ˈpɒkɪt/", "audio": "", "ru_translation": "карман" },
+        { "spelling": "zip", "transcription": "/zɪp/", "audio": "", "ru_translation": "молния (застежка)" },
+        { "spelling": "button", "transcription": "/ˈbʌtn/", "audio": "", "ru_translation": "пуговица" },
+        { "spelling": "size", "transcription": "/saɪz/", "audio": "", "ru_translation": "размер" },
+        { "spelling": "fashion", "transcription": "/ˈfæʃn/", "audio": "", "ru_translation": "мода" },
+        { "spelling": "uniform", "transcription": "/ˈjuːnɪfɔːm/", "audio": "", "ru_translation": "форма; униформа" }
+      ]
+    }
+  ]
+}

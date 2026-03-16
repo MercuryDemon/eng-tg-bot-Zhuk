@@ -35,7 +35,7 @@ func (r *UserRepo) CreateUser(ctx context.Context, id int64, username string) er
 		VALUES ($1, NULLIF($2, ''), now())
 		ON CONFLICT (tg_id) DO UPDATE
 		SET username = COALESCE(EXCLUDED.username, users.username),
-			created_at = COALESCE(users.created_at, EXCLUDED.created_at);
+		created_at = COALESCE(users.created_at, EXCLUDED.created_at);
 	`
 
 	if _, err := r.db.ExecContext(ctx, query, id, username); err != nil {
