@@ -1,5 +1,6 @@
 .env
 .env.local
+.mockery.yml
 
 AGENT.md
 TODOZhuk.md
